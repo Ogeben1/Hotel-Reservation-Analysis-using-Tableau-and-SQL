@@ -10,8 +10,8 @@ from which SQL queries were iteratively built upon to obtain the final SQL outpu
 Insight concerning Guests, revenue, seasonality, additional parking lots were revealed.
 
  ## Objective
-The goal is to explore the dataset, identify interesting patterns, and create impactful visualizations to tell a compelling data story. 
-This repository will contain my SQL query and a link to my published Tableau visuals.
+The goal is to explore the dataset, identify interesting patterns, gain insights and create impactful visualizations to tell a compelling data story. 
+This repository will contain my SQL script and a link to my published Tableau visuals.
 
 ## Tools used
 - SQL - For Data Manipulation
